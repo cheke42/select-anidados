@@ -7,11 +7,11 @@ Los datos son obtenidos de la API de [https://datosgobar.github.io/georef-ar-api
 
 Para las provincias: [http://apis.datos.gob.ar/georef/api/provincias](http://apis.datos.gob.ar/georef/api/provincias)
 
-Para los departamentos: [https://apis.datos.gob.ar/georef/api/departamentos?provincia=24}](https://apis.datos.gob.ar/georef/api/departamentos?provincia=24)
+Para los departamentos: [https://apis.datos.gob.ar/georef/api/departamentos?provincia=24](https://apis.datos.gob.ar/georef/api/departamentos?provincia=24)
 
-Para las localidades: [https://apis.datos.gob.ar/georef/api/localidades?departamento=26021}](https://apis.datos.gob.ar/georef/api/localidades?departamento=26021)
+Para las localidades: [https://apis.datos.gob.ar/georef/api/localidades?departamento=26021](https://apis.datos.gob.ar/georef/api/localidades?departamento=26021)
 
-En la url de departamento se filtra por la provincia CHUBUT (24) y en la url localidades se filtra por el departamento ESCALANTE (26021)
+En la url de departamento se filtra por la provincia **CHUBUT (24)** y en la url localidades se filtra por el departamento **ESCALANTE (26021)**
 
 ## INSTALAR DEP:
 

@@ -2,7 +2,7 @@
 
 En este proyecto utilice la librería de [React](https://github.com/facebook/create-react-app). A través de tres select en el cual se le solicita al usuario seleccionar Provincia, Departamento y Localidad. 
 
-## API UTILIZADO
+## API UTILIZADA
 Los datos son obtenidos de la API de [https://datosgobar.github.io/georef-ar-api/](https://datosgobar.github.io/georef-ar-api/)
 
 Para las provincias: [http://apis.datos.gob.ar/georef/api/provincias](http://apis.datos.gob.ar/georef/api/provincias)
